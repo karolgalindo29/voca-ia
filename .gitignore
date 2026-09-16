@@ -1,0 +1,26 @@
+# Variables de entorno (NUNCA subir)
+.env
+*.env
+
+# Base de datos SQLite
+*.db
+*.sqlite3
+instance/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
